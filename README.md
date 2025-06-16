@@ -1,3 +1,2 @@
 # Go-search-engine
-This is a barebone search engine with go, fiber and postgresql
-I follow a youtuber guide but instead of using templ. I use fiber 
+This is a basic search engine developed with Go, Fiber, and PostgreSQL. I followed a YouTuber's guide, but instead of using Templ, I chose Fiber.
